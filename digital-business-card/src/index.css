@@ -65,9 +65,9 @@ h2 {
 
 
 
-/* Buttons & Icons */
+/* Elements */
 
-.button {
+button {
   max-width: 115px;
   padding: 9px;
   border: none;
@@ -79,7 +79,7 @@ h2 {
   gap: 1.6rem;
 }
 
-.button a {
+button a {
   font-weight: 500;
   font-size: 1.4rem;
 }
