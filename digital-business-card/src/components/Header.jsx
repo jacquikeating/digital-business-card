@@ -15,7 +15,6 @@ export const Header = () => {
             <i className="fa-solid fa-envelope btn-icon"></i>
             Email
           </button>
-          l
         </a>
         <a href="linkedin.com" target="_blank" className="btn-link">
           <button className="cta-btn">
