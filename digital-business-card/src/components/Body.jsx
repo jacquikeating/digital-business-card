@@ -2,7 +2,7 @@ import React from "react";
 
 export const Body = () => {
   return (
-    <main>
+    <section className="body">
       <article className="body-subsection">
         <h2>About</h2>
         <p className="body-text">
@@ -21,7 +21,7 @@ export const Body = () => {
           dolor.
         </p>
       </article>
-    </main>
+    </section>
   );
 };
 
