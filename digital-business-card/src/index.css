@@ -24,12 +24,19 @@ header {
   text-align: center;
 
   .buttons-container {
-    margin-top: 2rem;
+    margin: 2rem 0 0.1rem 0;
     display: flex;
     width: 100%;
     justify-content: center;
     gap: 1.7rem;
   }
+}
+
+main {
+  padding: 3.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
 }
 
 footer {
@@ -56,6 +63,7 @@ h2 {
   color: #F5F5F5;
   font-size: 1.6rem;
   font-weight: 700;
+  margin: 0;
 }
 
 .job-title {
@@ -71,8 +79,9 @@ h2 {
 }
 
 .body-text {
-  font-size: 1.24rem;
+  font-size: 1.024rem;
   line-height: 1.5;
+  margin-top: 0.6rem;
 }
 
 
@@ -102,7 +111,10 @@ button {
 
 .btn-link {
   text-decoration: none;
-  color: #374151;
+  color: red;
+  margin-bottom: 0;
+  padding: 0;
+
 }
 
 .btn-icon {
