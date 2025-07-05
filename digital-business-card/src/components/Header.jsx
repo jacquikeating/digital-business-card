@@ -3,7 +3,11 @@ import React from "react";
 export const Header = () => {
   return (
     <header>
-      <img src="#" alt="Photo of Jacqui smiling" className="photo" />
+      <img
+        src="/public/corgi.webp"
+        alt="I don't want to put a photo of myself, so take this corgi instead"
+        className="photo"
+      />
       <h1>Jacqui Keating</h1>
       <p className="job-title">Full-Stack Developer</p>
       <a href="#" target="_blank" className="website-link">
