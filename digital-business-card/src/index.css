@@ -76,6 +76,10 @@ h2 {
   color: #F5F5F5;
   font-size: 1.24rem;
   text-decoration: none;
+
+  &:hover, &:focus {
+    color: #c5c5c5;
+  }
 }
 
 .body-text {
@@ -107,6 +111,11 @@ button {
   text-decoration: none;
   font-weight: 500;
   font-size: 1.4rem;
+  cursor: pointer;
+
+   &:hover, &:focus {
+    background-color: #bec2c9;
+  }
 }
 
 .btn-link {
@@ -124,9 +133,17 @@ button {
 .cta-btn {
   background-color: #5093E2;
   color: #fff;
+
+  &:hover, &:focus {
+    background-color: #66aaf7;
+  }
 }
 
 .social-icon {
   color: #918E9B;
   font-size: 2.7rem;
+
+  &:hover, &:focus {
+    color: #aeaab9;
+  }
 }
