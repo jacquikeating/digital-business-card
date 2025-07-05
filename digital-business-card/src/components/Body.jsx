@@ -18,8 +18,7 @@ export const Body = () => {
         <p className="body-text">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab quidem
           doloribus architecto facere iste nemo saepe ipsum corporis nihil
-          dolor, molestiae deserunt minus voluptatum illum. Autem similique
-          labore id non.
+          dolor.
         </p>
       </article>
     </main>

@@ -33,7 +33,7 @@ header {
 }
 
 main {
-  padding: 3.6rem;
+  padding: 3.6rem 3.6rem 3rem;
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
@@ -128,5 +128,5 @@ button {
 
 .social-icon {
   color: #918E9B;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
 }
